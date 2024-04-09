@@ -1,0 +1,20 @@
+{
+  "name": "solid-snippets",
+  "displayName": "solid-snippets",
+  "description": "Solid boilerplate snippets",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
